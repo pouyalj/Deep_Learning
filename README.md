@@ -1,1 +1,2 @@
-# Machine_Learing
+# Machine Learing  
+### Methods in ML implemented in C++  
